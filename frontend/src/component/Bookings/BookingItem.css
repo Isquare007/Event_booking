@@ -1,0 +1,27 @@
+.booking-list-item {
+    margin: 0.5rem, 0;
+    padding: 0.5rem;
+    border: 1px solid #6666ec;
+}
+
+.booking-item {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.booking-list-item h1 {
+    margin: 5px;
+    font-size: 1.5rem;
+    color: #6666ec;
+}
+
+.booking-list-item h2 {
+    margin: 10px;
+    font-size: 1rem;
+    color: #6666ec81;
+}
+
+.bttn {
+   text-align: center;
+}

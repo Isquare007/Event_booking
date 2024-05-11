@@ -1,0 +1,31 @@
+.event-list-item {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 2px solid #6666ec;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative
+}
+
+.event-list-item h1 {
+    margin: 5px;
+    font-size: 1.5rem;
+    color: #6666ec;
+}
+
+.circle {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(169, 169, 255);
+    border-radius: 50%;
+    position: absolute;
+    right: 1%;
+    top: 5%;
+  }
+
+.event-list-item h2 {
+    margin: 10px;
+    font-size: 1rem;
+    color: #6666ec81;
+}

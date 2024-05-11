@@ -1,0 +1,9 @@
+.auth-form {
+    width: 30rem;
+    max-width: 80%;
+    margin: 5rem auto;
+}
+.switch {
+    background-color: transparent;
+    border-radius: 100px;
+}
